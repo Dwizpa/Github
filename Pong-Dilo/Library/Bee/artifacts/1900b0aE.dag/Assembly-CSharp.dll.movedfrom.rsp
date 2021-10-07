@@ -35,6 +35,7 @@ Library\Bee\artifacts\movedfrom\Unity.VisualScripting.State.ref.dll_156430803689
 Library\Bee\artifacts\movedfrom\Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.UI.ref.dll_5519394401220875509.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.UI.ref.dll_648142665722821984.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_8636060613754037233.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_12609609525110662936.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_3347415785332816425.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.dll_15667735260933428989.movedfrom
@@ -112,4 +113,3 @@ Library\Bee\artifacts\movedfrom\UnityEngine.VirtualTexturingModule.dll_457263580
 Library\Bee\artifacts\movedfrom\UnityEngine.VRModule.dll_11386027024439299472.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_5219112905883406508.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_15042601396160305902.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.VisualScripting.Antlr3.Runtime.dll_3595628634890223080.movedfrom

@@ -84,6 +84,7 @@ public class PlayerControl : MonoBehaviour
         rigidBody2D.velocity = velocity;
     }
 
+    //Ketika terjadi tumbukan dengan bola, rekam titik kontaknya.
     void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.name.Equals("Ball"))
