@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/AngryBird-Dilo.unity
+  isLoaded: 1
+  isActive: 1
