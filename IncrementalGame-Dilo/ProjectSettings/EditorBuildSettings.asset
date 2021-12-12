@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/IncrementalGame.unity
+    path: Assets/Scenes/Loading.unity
+    guid: 78877d6b3fc8b924c901b1f3e1ab9944
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
     guid: 429f910d8b9aaa942bc8e9e76875561a
   m_configObjects: {}
